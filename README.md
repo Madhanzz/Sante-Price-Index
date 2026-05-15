@@ -15,7 +15,17 @@ Sante Price Index is an Android application developed using Kotlin and Firebase 
 * 🔄 Automatic data synchronization
 
 ---
+## 📸 App Screens
 
+<p align="center">
+  <img src="screenshots/home.jpeg" width="250"/>
+  <img src="screenshots/daily.jpeg" width="250"/>
+  <img src="screenshots/calculator.jpeg" width="250"/>
+   <img src="screenshots/market.jpeg" width="250"/>
+    <img src="screenshots/trend.jpeg" width="250"/>
+  
+  
+</p>
 ## 🛠 Technologies Used
 
 * Kotlin
